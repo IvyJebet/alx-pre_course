@@ -1,1 +1,1 @@
-This is a List OF All My Personal Codes
+This is a list of all my Personal Practice codes
